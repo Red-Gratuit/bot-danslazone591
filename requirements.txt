@@ -1,0 +1,1 @@
+# Ce bot utilise uniquement la bibliothèque standard Python.
